@@ -16,3 +16,4 @@
 
 - Visualisation et analyse: clustering de documents(tokens),LDA( modèle de modélisation thématique), visulisation des résultats (pyLDAvis)
 - modélisation à l'aide d'un graphe de données
+-BERTopic: modélisation thématique neurones dit "génératif" 
