@@ -16,4 +16,4 @@
 
 - Visualisation et analyse: clustering de documents(tokens),LDA( modèle de modélisation thématique), visulisation des résultats (pyLDAvis)
 - modélisation à l'aide d'un graphe de données
-- BERTopic: modéle thématique  dit "génératif" 
+- BERTopic: modéle thématique  dit "génératif" qui exploite les transformers et c-TF-IDF (https://maartengr.github.io/BERTopic/index.html)
