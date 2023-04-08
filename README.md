@@ -5,7 +5,7 @@
 ### Ce projet  a été réalisé dans le cadre du cours "network analysis for information retrieval"  de notre formation "Master 2  Machine learning pour l'Intelligence Artificielle" à l'université Lumière Lyon 2
 
 
-### L'objectif est d'explorer les données textuelles dans un corpus  afin d'extraire des informations pertinentes
+### L'objectif est d'explorer les données textuelles constitué d'un corpus es articles scientifiques afin d'extraire des informations pertinentes:moteur de rechrche,clustering des articles,modélisation thématique (LDA, BERTopic°, visualisation
 
 ### Démarches :
 - acquisition de données:  Nous allons utiliser le jeu de données provenant des Citations Network Dataset qui rassemble plusieurs millions d'articles: https://www.aminer.org/citation.
