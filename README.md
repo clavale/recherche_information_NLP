@@ -12,7 +12,7 @@
 
   Nous allons utiliser en particulier la version 10 qui comprend 3 079 007 articles et 25 166 994 citations, extraits le 27 octobre 2017
 
-- prepocessing de données textuelles: stopword, lemmatisation,matrice documents terms,TF, TF-IDF, Doc2vec,etc)
+- prepocessing de données textuelles: stopword, lemmatisation,matrice documents terms(TF, TF-IDF, Doc2vec,etc)
 
 - Visualisation et analyse: clustering de documents(tokens),LDA( modèle de modélisation thématique), visulisation des résultats (pyLDAvis)
 - modélisation à l'aide d'un graphe de données
